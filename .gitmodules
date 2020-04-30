@@ -1,0 +1,9 @@
+[submodule "4_29_20_release/rbay-frontend"]
+	path = 4_29_20_release/rbay-frontend
+	url = https://github.com/DSC-UIUC/rbay-frontend.git
+[submodule "4_29_20_release/rbay-backend"]
+	path = 4_29_20_release/rbay-backend
+	url = https://github.com/DSC-UIUC/rbay-backend.git
+[submodule "4_29_20_release/rbay-data-ml"]
+	path = 4_29_20_release/rbay-data-ml
+	url = https://github.com/DSC-UIUC/rbay-data-ml.git
